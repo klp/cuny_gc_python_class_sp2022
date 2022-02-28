@@ -4,8 +4,6 @@ more_fruits = ['strawberry', 'mango', 'kiwi']
 
 best_fruit = 'guava'
 
-
-
 # Best fruit first element of this list
 # Delete non-fruit items
 # Add more_fruits to fruits
