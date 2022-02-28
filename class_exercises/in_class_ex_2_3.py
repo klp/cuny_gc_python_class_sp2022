@@ -1,6 +1,6 @@
 fruits = ['apple', 'banana', 'chair', 'watermelon', 'pineapple', 'Greece']
 
-more_fruits =['strawberry', 'mango', 'kiwi']
+more_fruits = ['strawberry', 'mango', 'kiwi']
 
 best_fruit = 'guava'
 
@@ -14,6 +14,7 @@ fruit_list = []
 
 fruit_list.append(best_fruit)
 fruits.pop()
+fruits.remove('chair')
 fruits.extend(more_fruits)
 fruit_list.extend(fruits)
 print(fruit_list)
