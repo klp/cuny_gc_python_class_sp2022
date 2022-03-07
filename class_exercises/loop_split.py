@@ -33,5 +33,7 @@ for word in nice_list:
 
 print(f_words) # out of the loop
 
+# next time, create a function that takes two arguments, a list, and what letter
+# you want to filter by for starting letter
 
 
