@@ -5,7 +5,7 @@
 # Remove the non-fruit element
 # Sort the list alphabetically (google to find out the correct method)
 
-from audioop import reverse
+# from audioop import reverse
 
 
 fruits = ['pear', 'apple', 'banana', 'strawberry', 'blackberry', 'waffle', 'grape']
