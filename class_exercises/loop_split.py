@@ -27,11 +27,11 @@ f_words = []
 
 for word in nice_list:
 # run condition: if word starts with a 'f'
-    if word.startswith('f'):
+    if word.lower().startswith('f'): # lower is non-destructive method
         # append word that match condition to new list
         f_words.append(word)
 
-print(f_words)
+print(f_words) # out of the loop
 
 
 
