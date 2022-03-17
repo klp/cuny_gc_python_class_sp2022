@@ -14,7 +14,7 @@ from text import random_text
 # Notice how it has been 'tokenized', meaning that every word, number or 
 # punctuation is an item of the list
 
-def only_lower (some_list):
+def only_lower(some_list):
     lowered_list = []
     for item in some_list:
         if item.isalpha():
