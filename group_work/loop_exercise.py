@@ -22,4 +22,4 @@ from text import random_text
 # add items that first the condition in lower case to empty list
 # return new list based on the above
 
-# finally, print results of "only_lower" taking random_text as argument
+# finally, print results of "only_lower" taking random_text as an argument

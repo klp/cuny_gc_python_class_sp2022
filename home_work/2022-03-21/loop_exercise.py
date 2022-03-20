@@ -23,3 +23,5 @@ def only_lower(some_list):
     return lowered_list
 
 print(only_lower(random_text))
+# Just to compare our numbers during group discussion
+print(len(only_lower(random_text)))
