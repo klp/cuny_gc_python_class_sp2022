@@ -1,0 +1,8 @@
+Text Analysis Assignment 
+
+- Make your own corpus. Probably worth using Project Gutenberg if you don't have a text in mind for analysis.
+- It's worth looking at the links Rafa provided in Slack
+    - https://www.nltk.org/book/ (rad of course)
+    - https://github.com/BetoBob/NLTK-Book-Resource (this person did exercises and solutions based on NLTK book)
+    - https://github.com/hb20007/hands-on-nltk-tutorial (small jupyter notebooks that are interesting that we didn't go over)
+- This is due a week after spring break. 
