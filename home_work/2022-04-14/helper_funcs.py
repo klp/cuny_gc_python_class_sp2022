@@ -1,5 +1,11 @@
 import nltk
 
+def raw_to_tokens(raw_file):
+    to_string = raw_file.decode()
+    to_tokens = nltk.word_tokenize(decode)
+    return to_tokens
+
+
 def lowered(list):
     return [x.lower() for x in list if x.isalpha()]
 
