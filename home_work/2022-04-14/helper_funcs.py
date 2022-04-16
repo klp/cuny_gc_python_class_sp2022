@@ -24,6 +24,14 @@ def isolate_pos(l, str):
     # Note that this funciton returns a list of tuples, 
     # which is fine for our purposes of counting POS
     
+def present_round_percentage(d):
+    return round(d * 100, 2)
+    # here, I got a little obsessive with DRY
+    
+''' If I had more time, I would probably write some functions to iternate through
+    each text for each operation, so I wouldn't have to repeat each step 
+    Didn't have enough time to work through that problem unfortunately.'''
+    
 
 # def filter_out_words(book, list):
 #     return [x for x in book if x not in list]
