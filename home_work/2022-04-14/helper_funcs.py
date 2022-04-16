@@ -29,8 +29,9 @@ def present_round_percentage(d):
     # here, I got a little obsessive with DRY
     
 ''' If I had more time, I would probably write some functions to iternate through
-    each text for each operation, so I wouldn't have to repeat each step 
-    Didn't have enough time to work through that problem unfortunately.'''
+    each text for each operation, so I wouldn't have to repeat each step per novel
+    Didn't have enough time to work through that problem unfortunately, though
+    I'd love to get some ideas on doing that well.'''
     
 
 # def filter_out_words(book, list):
